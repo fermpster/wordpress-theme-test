@@ -351,6 +351,7 @@ big {
 --------------------------------------------------------------*/
 html {
 	box-sizing: border-box;
+	font-size: 62.5%; /* sets up page for rem to equal correct px size -- for instance 1.4 would equal 14px */
 }
 
 *,
