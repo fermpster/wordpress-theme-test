@@ -273,8 +273,8 @@ select,
 textarea {
 	color: #404040;
 	font-family: 'PT Serif', serif;
-	font-size: 18px;
-	font-size: 1.8rem;
+	font-size: 14px;
+	font-size: 1.4rem;
 	line-height: 1.5;
 }
 
@@ -285,6 +285,9 @@ h4,
 h5,
 h6 {
 	clear: both;
+	font-family: 'Lato', sans-serif;
+	color: #000;
+	font-weight: 900;
 }
 
 p {
