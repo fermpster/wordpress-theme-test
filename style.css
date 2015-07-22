@@ -272,8 +272,9 @@ input,
 select,
 textarea {
 	color: #404040;
-	font-size: 16px;
-	font-size: 1rem;
+	font-family: 'PT Serif', serif;
+	font-size: 18px;
+	font-size: 1.8rem;
 	line-height: 1.5;
 }
 
